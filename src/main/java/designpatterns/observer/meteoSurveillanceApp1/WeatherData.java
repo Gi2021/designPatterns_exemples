@@ -14,7 +14,7 @@ public class WeatherData {
 	}
 		
 	public void measurementsChanged() {
-	  //get données
+	  //get donnï¿½es
 		float temp=getTemperature();
 		float press=getPression();
 		float humid=getHumidite();
@@ -35,9 +35,11 @@ public class WeatherData {
             0.000000000843296 * (t * t * rh * rh * rh)) -
             (0.0000000000481975 * (t * t * t * rh * rh * rh)));
         return index;
+
     }
 	
 	public float getTemperature() {
+		
 		return temperature;
 	}
 	public float getPression() {
