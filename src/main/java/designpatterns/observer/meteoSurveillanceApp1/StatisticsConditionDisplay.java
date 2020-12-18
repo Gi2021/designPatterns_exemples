@@ -5,6 +5,7 @@ public class StatisticsConditionDisplay {
 	private float minTemp = 200;
 	private float tempSum = 0.0f;
 	private int numReadings;
+	
 
 	public void update(float temp, float humidity, float pressure) {
 		tempSum += temp;
