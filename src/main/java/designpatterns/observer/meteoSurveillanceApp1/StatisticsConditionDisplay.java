@@ -1,5 +1,5 @@
 package designpatterns.observer.meteoSurveillanceApp1;
-
+//add comment !!
 public class StatisticsConditionDisplay {
 	private float maxTemp = 0.0f;
 	private float minTemp = 200;
