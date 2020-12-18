@@ -1,5 +1,5 @@
 package designpatterns.observer.meteoSurveillanceApp1;
-
+//add comment !!
 public class ForcasteConditionDisplay {
 	private float temp;
 	
@@ -13,7 +13,7 @@ public class ForcasteConditionDisplay {
 		if (temp > 15) {
 			System.out.println("Bonne meteo est au rendez-vous!");
 		} else if (temp == 15) {
-			System.out.println("Nous allons continuer une même temperature pour le moment");
+			System.out.println("Nous allons continuer une mï¿½me temperature pour le moment");
 		} else if (temp < 15) {
 			System.out.println("La meteo s'annonce un peu dans le froid!");
 		}

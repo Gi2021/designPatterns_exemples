@@ -1,5 +1,5 @@
 package designpatterns.observer.meteoSurveillanceApp1;
-
+// add comment !!
 public class CurrentConditionDisplay {
 	private float temperature;
 	private float humidity;
