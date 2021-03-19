@@ -1,2 +1,2 @@
 # designPatterns
-## those frist commits was just a test for education purposes !
+* Those frist commits was just a test for education purposes !
